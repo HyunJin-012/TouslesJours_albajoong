@@ -45,6 +45,6 @@
 
 #### 5. 성공했을 경우
 #### - 당신이 성공한 계산 갯수에 따라 알린이, 프로, 베테랑 등급으로 평가된다.
-#### - 당신의 상태는 좌츨 하단의 progres_bar로 확인할 수 있다.
+#### - 당신의 상태는 좌측 하단의 progres_bar로 확인할 수 있다.
 ![알린이](https://user-images.githubusercontent.com/64057843/101272517-5264e000-37d0-11eb-9958-429686af022b.png) ![프로](https://user-images.githubusercontent.com/64057843/101272520-53960d00-37d0-11eb-93ed-a5ff557e64a0.png) ![베테랑](https://user-images.githubusercontent.com/64057843/101272525-585ac100-37d0-11eb-9929-742d2b06124b.png)
 ----
